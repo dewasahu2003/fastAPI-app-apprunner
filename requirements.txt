@@ -3,3 +3,4 @@ fastapi
 pytest
 pylint
 uvicorn[standard]
+pytest-asyncio
